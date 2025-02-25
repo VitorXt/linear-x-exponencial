@@ -1,0 +1,14 @@
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\bin\Debug\net8.0\Exponencial.exe
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\bin\Debug\net8.0\Exponencial.deps.json
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\bin\Debug\net8.0\Exponencial.runtimeconfig.json
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\bin\Debug\net8.0\Exponencial.dll
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\bin\Debug\net8.0\Exponencial.pdb
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\Exponencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\Exponencial.AssemblyInfoInputs.cache
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\Exponencial.AssemblyInfo.cs
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\Exponencial.csproj.CoreCompileInputs.cache
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\Exponencial.dll
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\refint\Exponencial.dll
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\Exponencial.pdb
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\Exponencial.genruntimeconfig.cache
+C:\Vitor\Hugo\7 periodo\Exponencial\Exponencial\obj\Debug\net8.0\ref\Exponencial.dll
